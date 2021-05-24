@@ -1,5 +1,5 @@
 {
-    "name": "drawmyattention/xerolaravel",
+    "name": "transportersio/xerolaravel",
     "description": "A Laravel 5 wrapper for Xero's PHP API",
     "require": {
         "calcinai/xero-php": "^2.2.4"
